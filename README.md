@@ -98,6 +98,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Geolocator](https://github.com/SergioMorchon/fitbit-geolocator) by Sergio Morchón Poveda - Fitbit GPS based app to store locations and orientate yourself
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use.
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
+* [Homeassistant](https://github.com/smirko-dev/fitbit-homeassistant) by smirko-dev - Allows to control Home Assistant entities from a Fitbit watch via the HomeAssistantAPI module
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
 * [Knit Counter](https://github.com/zaneduffield/knit-counter) by Zane Duffield - An app for tracking repeat increments in knitting patterns.
 * [Lightest](https://github.com/alicescfernandes/fitbit-lightest) by Alice Fernandes - A flashlight app for fitbit versa 3 and sense
@@ -109,6 +110,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RVRZ](https://github.com/OSSClockApps/RVRZ) by Lukas Panni - Simple reversed analog clock.
 * [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
+* [Spotify HR](https://github.com/TimeToogo/spotify-hr) by TimeToogo - The app is a remote controller for your Spotify account. (Remote control music playback / Change playlist / Volume control)
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
 * [Todo](https://github.com/SaskiaKeil/fitbit-todo) by Saskia Keil - View and check off your microsoft todo tasks from your watch
