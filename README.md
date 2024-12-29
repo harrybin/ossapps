@@ -110,7 +110,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RVRZ](https://github.com/OSSClockApps/RVRZ) by Lukas Panni - Simple reversed analog clock.
 * [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
-* [Spotify HR](https://github.com/TimeToogo/spotify-hr) by TimeToogo - The app is a remote controller for your Spotify account. (Remote control music playback / Change playlist / Volume control)
+* [Spotify HR](https://github.com/TimeToogo/spotify-hr) by TimeToogo - The app is a remote controller for your Spotify account. (Remote control music playback / Change playlist / Volume control; HR API fature)
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
 * [Todo](https://github.com/SaskiaKeil/fitbit-todo) by Saskia Keil - View and check off your microsoft todo tasks from your watch
